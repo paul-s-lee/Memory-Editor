@@ -1,3 +1,8 @@
+// main.cpp
+// memory editor
+// purpose: modifies a variable's value in another window based application via the win32 API. Useful for game variable 
+// modifcation for client sided only
+
 #include <windows.h>
 #include <iostream>
 #include <string>
